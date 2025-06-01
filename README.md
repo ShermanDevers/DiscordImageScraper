@@ -15,4 +15,6 @@ This works by having access to the channel id, the best way to do this is to tur
 
 ![Picture of turning dev mode on](/images/picOfDevMode.png?raw=true)
 
+
+then right click and copy the channel id
 ![Picture of copying channel id](/images/picOfCopy.png?raw=true)
