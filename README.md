@@ -17,4 +17,6 @@ This works by having access to the channel id, the best way to do this is to tur
 
 
 then right click and copy the channel id
+
+
 ![Picture of copying channel id](/images/picOfCopy.png?raw=true)
